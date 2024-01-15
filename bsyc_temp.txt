@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=10" http-equiv="X-UA-Compatible"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://www.computersciencedegreehub.com/xmlrpc.php" rel="pingback"/>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots"/>
+<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Top 50 Master's in Computer Science Degree Programs (Updated) - Computer Science Degree Hub</title>
+<meta content="By CSDH Staff It’s a great time to pursue a master’s degree in computer science! Not only is the average salary of an employee with a master’s degree" name="description"/>
+<link href="https://www.computersciencedegreehub.com/masters-computer-science/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Top 50 Master's in Computer Science Degree Programs (Updated) - Computer Science Degree Hub" property="og:title"/>
+<meta content="By CSDH Staff It’s a great time to pursue a master’s degree in computer science! Not only is the average salary of an employee with a master’s degree" property="og:description"/>
+<meta content="https://www.computersciencedegreehub.com/masters-computer-science/" property="og:url"/>
+<meta content="Computer Science Degree Hub" property="og:site_name"/>
+<meta content="2023-10-03T16:15:57+00:00" property="article:modified_time"/>
+<meta content="https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-300x300.png" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Est. reading time" name="twitter:label1"/>
+<meta content="30 minutes" name="twitter:data1"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.computersciencedegreehub.com/masters-computer-science/","url":"https://www.computersciencedegreehub.com/masters-computer-science/","name":"Top 50 Master's in Computer Science Degree Programs (Updated) - Computer Science Degree Hub","isPartOf":{"@id":"https://www.computersciencedegreehub.com/#website"},"primaryImageOfPage":{"@id":"https://www.computersciencedegreehub.com/masters-computer-science/#primaryimage"},"image":{"@id":"https://www.computersciencedegreehub.com/masters-computer-science/#primaryimage"},"thumbnailUrl":"https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-300x300.png","datePublished":"2019-01-22T16:36:40+00:00","dateModified":"2023-10-03T16:15:57+00:00","description":"By CSDH Staff It’s a great time to pursue a master’s degree in computer science! Not only is the average salary of an employee with a master’s degree","breadcrumb":{"@id":"https://www.computersciencedegreehub.com/masters-computer-science/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.computersciencedegreehub.com/masters-computer-science/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.computersciencedegreehub.com/masters-computer-science/#primaryimage","url":"https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1.png","contentUrl":"https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1.png","width":2000,"height":1991,"caption":"CSD Top Degree Programs"},{"@type":"BreadcrumbList","@id":"https://www.computersciencedegreehub.com/masters-computer-science/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.computersciencedegreehub.com/"},{"@type":"ListItem","position":2,"name":"Top 50 Master&#8217;s in Computer Science Degree Programs (Updated)"}]},{"@type":"WebSite","@id":"https://www.computersciencedegreehub.com/#website","url":"https://www.computersciencedegreehub.com/","name":"Computer Science Degree Hub","description":"","publisher":{"@id":"https://www.computersciencedegreehub.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.computersciencedegreehub.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.computersciencedegreehub.com/#organization","name":"Computer Science Degree Hub","url":"https://www.computersciencedegreehub.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.computersciencedegreehub.com/#/schema/logo/image/","url":"https://www.computersciencedegreehub.com/wp-content/uploads/2017/02/csdh-logo500x2.jpg","contentUrl":"https://www.computersciencedegreehub.com/wp-content/uploads/2017/02/csdh-logo500x2.jpg","width":1000,"height":120,"caption":"Computer Science Degree Hub"},"image":{"@id":"https://www.computersciencedegreehub.com/#/schema/logo/image/"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="https://www.computersciencedegreehub.com/feed/" rel="alternate" title="Computer Science Degree Hub » Feed" type="application/rss+xml"/>
+<!-- computersciencedegreehub.com is managing ads with Advanced Ads 1.46.0 – https://wpadvancedads.com/ --><!--noptimize--><script id="compu-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+<!--/noptimize--><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.computersciencedegreehub.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="mobius-qdf-style-inline-css" type="text/css">
+</style>
+<style id="mobius-el-style-inline-css" type="text/css">
+</style>
+<link href="https://www.computersciencedegreehub.com/wp-includes/css/classic-themes.min.css?ver=1" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1697091721" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="mobius-style-inline-css" type="text/css">
+div.mobius-container-qdf {
+  background: #0398cc;
+}
+he-qdf[theme=none],
+he-editorial-listings[theme=none] {
+  --button-background-color:#fcb900;
+  --button-background-color-hover:#f9cb41;
+}
+
+</style>
+<link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/plugins/widget-options/assets/css/widget-options.css?ver=1697091721" id="widgetopts-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/themes/vantage/style.css?ver=1697091721" id="chld_thm_cfg_parent-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.computersciencedegreehub.com/wp-content/themes/CompSciDeg-child/style.css?ver=2.6" id="vantage-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/themes/vantage/fontawesome/css/font-awesome.css?ver=1697091721" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css?ver=1697091721" id="siteorigin-mobilenav-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="kadence-blocks-global-variables-inline-css" type="text/css">
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+</style>
+<script id="jquery-core-js" src="https://www.computersciencedegreehub.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://www.computersciencedegreehub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="advanced-ads-advanced-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
+/* ]]> */
+</script>
+<script id="advanced-ads-advanced-js-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.46.0" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.computersciencedegreehub.com/wp-content/themes/vantage/js/html5.min.js?ver=3.7.3' id='vantage-html5-js'></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type='text/javascript' src='https://www.computersciencedegreehub.com/wp-content/themes/vantage/js/selectivizr.min.js?ver=1.0.2' id='vantage-selectivizr-js'></script>
+<![endif]-->
+<script id="siteorigin-mobilenav-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var mobileNav = {"search":{"url":"https:\/\/www.computersciencedegreehub.com","placeholder":"Search"},"text":{"navigate":"Menu","back":"Back","close":"Close"},"nextIconUrl":"https:\/\/www.computersciencedegreehub.com\/wp-content\/themes\/vantage\/inc\/mobilenav\/images\/next.png","mobileMenuClose":"<i class=\"fa fa-times\"><\/i>"};
+/* ]]> */
+</script>
+<script id="siteorigin-mobilenav-js" src="https://www.computersciencedegreehub.com/wp-content/themes/vantage/inc/mobilenav/js/mobilenav.min.js?ver=2.6" type="text/javascript"></script>
+<link href="https://www.computersciencedegreehub.com/wp-json/" rel="https://api.w.org/"/><link href="https://www.computersciencedegreehub.com/wp-json/wp/v2/pages/12931" rel="alternate" type="application/json"/><link href="https://www.computersciencedegreehub.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.computersciencedegreehub.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.1.3" name="generator"/>
+<link href="https://www.computersciencedegreehub.com/?p=12931" rel="shortlink"/>
+<link href="https://www.computersciencedegreehub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.computersciencedegreehub.com%2Fmasters-computer-science%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.computersciencedegreehub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.computersciencedegreehub.com%2Fmasters-computer-science%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>
+<meta content="width=device-width, initial-scale=1" name="viewport"/> <style type="text/css">
+			.so-mobilenav-mobile + * { display: none; }
+			@media screen and (max-width: 480px) { .so-mobilenav-mobile + * { display: block; } .so-mobilenav-standard + * { display: none; } }
+		</style>
+<link href="https://www.computersciencedegreehub.com/masters-computer-science/?amp" rel="amphtml"/> <style media="screen" type="text/css">
+		#footer-widgets .widget { width: 100%; }
+		#masthead-widgets .widget { width: 100%; }
+	</style>
+<style id="customizer-css" type="text/css">#masthead .hgroup h1, #masthead.masthead-logo-in-menu .logo > h1 { font-size: px } #masthead .hgroup .support-text { font-size: 16px } #page-title, article.post .entry-header h1.entry-title, article.page .entry-header h1.entry-title { font-size: 23px } .entry-content { font-size: 16px } .entry-content h1 { font-size: 24px } .entry-content h2 { font-size: 22px } .entry-content h3 { font-size: 21px } .entry-content h4 { font-size: 19px } .entry-content h5 { font-size: 17px } .entry-content h6 { font-size: 15px } #masthead .hgroup { padding-top: 15px; padding-bottom: 15px } #masthead .hgroup .logo { text-align: center } #masthead .hgroup .logo, #masthead .hgroup .site-logo-link { float: none } #masthead .hgroup .logo img, #masthead .hgroup .site-logo-link img { display: block; margin: 0 auto } .entry-content a, .entry-content a:visited, #secondary a, #secondary a:visited, #masthead .hgroup a, #masthead .hgroup a:visited, .comment-form .logged-in-as a, .comment-form .logged-in-as a:visited { color: #3f8beb } .entry-content a, .textwidget a { text-decoration: none } .entry-content a:hover, .textwidget a:hover { text-decoration: underline } .main-navigation ul { text-align: center } .main-navigation { background-color: #114151 } .main-navigation ul ul { background-color: #3a4e51 } .main-navigation ul li:hover > a, #search-icon #search-icon-icon:hover { background-color: #3a4e51 } .main-navigation ul ul li:hover > a { background-color: #114151 } #search-icon #search-icon-icon { background-color: #284f5b } #search-icon #search-icon-icon .vantage-icon-search { color: #adadad } #search-icon .searchform { background-color: #003d51 } #search-icon .searchform input[name=s] { color: #c1c1c1 } .main-navigation ul li a { padding-top: 10px; padding-bottom: 10px } .main-navigation ul li a, #masthead.masthead-logo-in-menu .logo { padding-left: 20px; padding-right: 20px } .main-navigation ul li { font-size: 16px } .mobile-nav-frame { background-color: #003b4e } .mobile-nav-frame ul { border-color: #727272 } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, #infinite-handle span button { text-shadow: none } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, #infinite-handle span { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none } #masthead { background-color: #003b4e } #colophon, body.layout-full { background-color: #0f365e } </style><link href="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/cropped-csdh512-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/cropped-csdh512-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/cropped-csdh512-180x180.png" rel="apple-touch-icon"/>
+<meta content="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/cropped-csdh512-270x270.png" name="msapplication-TileImage"/>
+<meta content="CN_O7GnutnYcB-y8IJClXfxtc5QKjQJpHjBz7L4jOf8" name="google-site-verification"/>
+<script>
+var _prum = [['id', '593df4c65992c73159f5fe16'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+</head>
+<body class="page-template-default page page-id-12931 wp-custom-logo responsive layout-full no-js has-sidebar has-menu-search page-layout-default sidebar-position-left mobilenav aa-prefix-compu-" data-rsssl="1">
+<div id="page-wrapper">
+<header class="site-header" id="masthead" role="banner">
+<div class="hgroup full-container">
+<a class="logo" href="https://www.computersciencedegreehub.com/" rel="home" title="Computer Science Degree Hub"><img alt="Computer Science Degree Hub Logo" class="logo-no-height-constrain" height="54" src="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/csdh-logo500-2.png" srcset="https://www.computersciencedegreehub.com/wp-content/uploads/2017/01/csdh-logo500x2.png 2x" width="500"/></a>
+<div id="header-sidebar">
+<aside class="extendedwopts-hide extendedwopts-desktop extendedwopts-tablet widget widget_block" id="block-3"><div id="qdf"> <div class="mobius-container mobius-container-qdf">
+<he-qdf category="computers-and-technology" class="mobius-block mobius-block-qdf" degree="masters" layout="vertical" subject="computer-science" theme="none">
+<div class="mobius-title"></div>
+</he-qdf>
+</div></div></aside> </div>
+</div><!-- .hgroup.full-container -->
+<nav class="site-navigation main-navigation primary use-sticky-menu mobile-navigation" role="navigation">
+<div class="full-container">
+<div id="search-icon">
+<div id="search-icon-icon"><div class="vantage-icon-search"></div></div>
+<form action="https://www.computersciencedegreehub.com/" class="searchform" method="get" role="search">
+<input class="field" name="s" placeholder="Search" type="text" value=""/>
+</form>
+</div>
+<div class="so-mobilenav-standard" data-id="1" id="so-mobilenav-standard-1"></div><div class="menu-site-information-container"><ul class="menu" id="menu-site-information"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497" id="menu-item-497"><a href="https://www.computersciencedegreehub.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113" id="menu-item-113"><a href="https://www.computersciencedegreehub.com/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14856" id="menu-item-14856"><a href="https://www.computersciencedegreehub.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272" id="menu-item-272"><a href="https://www.computersciencedegreehub.com/sitemap/">Sitemap</a></li>
+</ul></div><div class="so-mobilenav-mobile" data-id="1" id="so-mobilenav-mobile-1"></div><div class="menu-mobilenav-container"><ul class="menu" id="mobile-nav-item-wrap-1"><li><a class="mobilenav-main-link" data-id="1" href="#"><span class="mobile-nav-icon"></span>Menu</a></li></ul></div> </div>
+</nav><!-- .site-navigation .main-navigation -->
+</header><!-- #masthead .site-header -->
+<div class="site-main" id="main">
+<div class="full-container">
+<div class="content-area" id="primary">
+<div class="site-content" id="content" role="main">
+<article class="post-12931 page type-page status-publish post" id="post-12931">
+<div class="entry-main">
+<header class="entry-header">
+<h1 class="entry-title">Top 50 Master’s in Computer Science Degree Programs (Updated)</h1>
+</header><!-- .entry-header -->
+<div class="entry-content">
+<div class="wp-block-image">
+<figure class="alignright"><a href="https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP.jpg"><img alt="CSD Top Degree Programs" class="wp-image-13151" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-300x300.png" srcset="https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-300x300.png 300w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-150x150.png 150w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1-1024x1019.png 1024w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/02/CSDH-TDP_1.png 2000w" width="300"/></a></figure></div>
+<p>By CSDH Staff</p>
+<p>It’s a great time to pursue a master’s degree in computer science! Not only is the average salary of an employee with a master’s degree $101,000 — much higher than those with only a bachelor’s — but the U.S. Bureau of Labor Statistics reports that employment in computer science occupations is expected to grow a whopping 15% through 2029. That’s way faster than the average industry! We guess <i>Forbes </i>was right when it declared the master’s degree to be the new industry standard!<span class="Apple-converted-space"> </span></p>
+<p>But it’s not easy to determine which colleges and universities are best when it comes to where to study for a master’s in computer science. There are many factors to consider, including overall cost, national reputation, and curriculum, to name but a few considerations. That’s why Computer Science Degree Hub took on the task of determining the top 50 master’s in computer science degree programs, updated for 2021.<span class="Apple-converted-space"> </span></p>
+<p><em><strong>Ranking Methodology</strong></em></p>
+<p>To come up with our ranking of the best master’s degrees in computer science, we began by making a list of more than 75 programs throughout the United States. We considered only those universities offering a distinct master’s degree in computer science, as opposed to a track or concentration. To narrow down our list to the top 50, we used the following points system.<span class="Apple-converted-space"> </span></p>
+<p><strong>Annual Graduate Tuition &amp; Fees (Estimate):<span class="Apple-converted-space"> </span></strong></p>
+<p>Under $70,000 — 2 points<br/>Under $60,000 — 3 points<span class="Apple-converted-space"><br/></span>Under $50,000 — 4 points<span class="Apple-converted-space"><br/></span>Under $40,000 — 5 points<span class="Apple-converted-space"><br/></span>Under $30,000 — 6 points<span class="Apple-converted-space"><br/></span>Under $20,000 — 7 points<br/>Under $10,000 — 8 points<span class="Apple-converted-space"> </span></p>
+<p><strong>Annual Percentage of 20-Year Net Return on Investment (ROI):</strong><span class="Apple-converted-space"> </span></p>
+<p>1% and below — 0 points<span class="Apple-converted-space"><br/></span>2-3% — 1 points<span class="Apple-converted-space"><br/></span>4-5% — 2 point<br/>6-7% — 3 points<br/>8-9% — 4 points<span class="Apple-converted-space"><br/></span>10% and above — 5 points<span class="Apple-converted-space"> </span></p>
+<p><strong>Average Early-Career Salary of Graduates:</strong><span class="Apple-converted-space"> </span></p>
+<p>$50,000 and below — 1 point<br/>$60,000 and below — 2 points<br/>$70,000 and below — 3 points<br/>$80,000 and below — 4 points<br/>$90,000 and below — 5 points<span class="Apple-converted-space"><br/></span>$100,000 and below — 6 points<br/>Above $100,001 — 7 points<span class="Apple-converted-space"> </span></p>
+<p><strong>National Recognition:</strong><span class="Apple-converted-space"><br/></span>Note: To ensure consistency, we consulted only those applicable rankings produced by <i>U.S. News &amp; World Report </i>(Best National University Rankings, Best Computer Science Schools), <i>Wall Street Journal/Times Higher Education College Rankings </i>(U.S. College Rankings), and <i>Forbes </i>(America’s Top Colleges, Best Master’s Degree: Computer Science).</p>
+<p>Top 100 — 1 point<br/>Top 50 — 2 points<br/>Top 40 — 3 points<br/>Top 30 — 4 points<br/>Top 20 — 5 points<br/>Top 10 — 6 points<br/>Top 5 — 7 points<span class="Apple-converted-space"> </span></p>
+<p>Please note, in the case of varying information (for example, a difference in tuition for state residents and non-residents), points were allocated based on the highest number of points possible. Ties were broken at the discretion of the editors.</p>
+<h3>1. <a href="https://www.computersciencedegreehub.com/colleges/cornell-university/" rel="noopener">Cornell University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12949" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Cornell-University-150x150.png" width="150"/></figure></div>
+<p><b>Points: </b>40<br/><strong>2020 Ranking: </strong>1<br/><strong>Tuition:</strong> $29,500</p>
+<p>Located in Ithaca, New York, Cornell is a private Ivy League university. The Master of Science in Computer Science from Cornell is a 34-hour program which takes four semesters to complete. Students are required to turn in a written thesis and give an oral presentation about the thesis results. Elective course topics include:</p>
+<ul>
+<li>blockchains</li>
+<li>compilers</li>
+<li>open-source software engineering</li>
+<li>matrix computations.</li>
+</ul>
+<h3>2. <a href="https://www.computersciencedegreehub.com/colleges/princeton-university/" rel="noopener">Princeton University</a><br/>Master of Science in Engineering in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12948" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Princeton-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>38<br/><strong>2020 Ranking:</strong> 2<br/><strong>Tuition: </strong>$53,890</p>
+<p>Princeton University is a private Ivy League university located in Princeton, New Jersey. The Department of Computer Science at Princeton offers a master’s degree program with thesis and non-thesis options. The program is for full-time students and is designed to be completed in two years. Sample courses include:</p>
+<ul>
+<li>Computational Complexity</li>
+<li>Advanced Computer Graphics</li>
+<li>Data Structures and Graph Algorithms.</li>
+</ul>
+<h3>3. <a href="https://www.computersciencedegreehub.com/colleges/stanford-university/" rel="noopener">Stanford University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12944" decoding="async" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Stanford-e1547607079775.png"/></figure></div>
+<p><strong>Points: </strong>37<br/><strong>2020 Ranking:</strong> 3<br/><strong>Tuition: </strong>$54,315</p>
+<p>Stanford University is a private university located in Stanford, California. The university offers a master’s degree in computer science with specializations in:</p>
+<ul>
+<li>artificial intelligence</li>
+<li>biocomputation</li>
+<li>computer and network security</li>
+<li>human-computer interaction</li>
+<li>information management and analytics</li>
+<li>real-world computing</li>
+<li>software theory</li>
+<li>theoretical computer science.</li>
+</ul>
+<h3>4. <a href="https://www.computersciencedegreehub.com/colleges/yale-university/" rel="noopener noreferrer" target="_blank">Yale University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Yale University-Top 50 Graduate Computer Science Programs" class="wp-image-12959" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Yale-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>37<br/><strong>2020 Ranking:</strong> 4<br/><strong>Tuition: </strong>$44,500</p>
+<p>Founded in 1701 and located in New Haven, Connecticut, Yale University is one of the oldest colleges in the United States. The Master of Science in Computer Science from Yale is designed for individuals who want to pursue professional careers after graduation instead of applying to doctoral programs. The university offers a general track and two specialized tracks:</p>
+<ul>
+<li>bioinformatics</li>
+<li>computing and the arts.</li>
+</ul>
+<h3>5. <a href="https://www.computersciencedegreehub.com/colleges/georgia-institute-of-technology/" rel="noopener noreferrer" target="_blank">Georgia Institute of Technology</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12965" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Georgia-Tech-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>36<br/><strong>2020 Ranking:</strong> 5<br/><strong>Tuition: </strong>$14,064 (Georgia residents), $29,140 (out of state)</p>
+<p>Georgia Institute of Technology, more commonly known as Georgia Tech, is a public university located in Atlanta, Georgia. The school’s Master of Science in Computer Science is a 30-credit program with three options:</p>
+<ul>
+<li>course</li>
+<li>project</li>
+<li>thesis</li>
+</ul>
+<p>M.S. candidates select from a variety of specializations, including:</p>
+<ul>
+<li>computational perception and robotics</li>
+<li>interactive intelligence</li>
+<li>modeling and simulations</li>
+<li>social computing.</li>
+</ul>
+<h3>6. <a href="https://www.computersciencedegreehub.com/colleges/university-of-pennsylvania/" rel="noopener noreferrer" target="_blank">University of Pennsylvania</a><br/>Master of Science in Engineering in Computer and Information Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Penn-Top 50 Graduate Computer Science Programs" class="wp-image-12960" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Pennsylvania-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>36<br/><strong>2020 Ranking:</strong> 8<br/><strong>Tuition: </strong>$37,678</p>
+<p>University of Pennsylvania, often referred to as Penn, is a private Ivy League university. Penn offers a Master of Science in Engineering in Computer and Information Science. Sample courses include:</p>
+<ul>
+<li>Computer Architecture</li>
+<li>Internet and Web Systems</li>
+<li>Theory of Computation</li>
+</ul>
+<p>Students are encouraged to conduct in-depth research and complete a master’s thesis.</p>
+<h3>7. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-berkeley/" rel="noopener">University of California – Berkeley</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright is-resized"><img alt="UC Berkeley-Top 50 Computer Science Graduate Schools" class="wp-image-12945" decoding="async" height="150" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Berkeley-300x300.png"/></figure></div>
+<p><strong>Points: </strong>35<br/><strong>2020 Ranking:</strong> 7<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>University of California – Berkeley, commonly referred to as Berkeley or Cal, is a public university with top computer science ratings from multiple organizations. Berkeley offers a master’s degree in computer science that requires 24 units to complete. Students can take classes in:</p>
+<ul>
+<li>embedded systems</li>
+<li>user interface design</li>
+<li>network security</li>
+<li>parallel computation</li>
+<li>cryptography.</li>
+</ul>
+<h3>8. <a href="https://www.computersciencedegreehub.com/colleges/carnegie-mellon-university/" rel="noopener noreferrer" target="_blank">Carnegie Mellon University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="CMU-Top 50 Graduate Computer Science Programs" class="wp-image-12955" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Carnegie-Mellon-University-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>35<br/><strong>2020 Ranking:</strong> 6<br/><strong>Tuition: </strong>$46,441</p>
+<p>Located in Pittsburgh, Pennsylvania, Carnegie Mellon University (CMU) is a private university with a computer science faculty dedicated to publishing cutting-edge research in the field. The M.S. in Computer Science from CMU is composed entirely of courses, and generally does not have a research component. Students are required to take classes in:</p>
+<ul>
+<li>artificial intelligence</li>
+<li>systems</li>
+<li>theoretical foundations.</li>
+</ul>
+<h3>9. <a href="https://www.computersciencedegreehub.com/colleges/columbia-university/" rel="noopener">Columbia University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12953" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Columbia-University-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>33<br/><strong>2020 Ranking:</strong> 10<br/><strong>Tuition:</strong> $49,024</p>
+<p>Columbia University is a private Ivy League university located in New York City. Columbia offers a Master of Science in Computer Science with a number of tracks to choose from, including:</p>
+<ul>
+<li>computational biology</li>
+<li>computer security</li>
+<li>machine learning</li>
+<li>natural language processing</li>
+<li>software systems</li>
+</ul>
+<p>To graduate, students must complete one course from each of the following areas:</p>
+<ul>
+<li>AI and applications</li>
+<li>systems</li>
+<li>theory.</li>
+</ul>
+<h3>10. <a href="https://www.computersciencedegreehub.com/colleges/university-of-michigan/" rel="noopener noreferrer" target="_blank">University of Michigan</a><br/>Master of Science in Engineering in Computer Science and Engineering</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Michigan-Top 50 Graduate Computer Science Programs" class="wp-image-12956" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Michigan-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>33<br/><strong>2020 Ranking:</strong> 9<br/><strong>Tuition: </strong>$24,344 (Michigan residents), $49,120 (out of state)</p>
+<p>University of Michigan is a public university based in Ann Arbor, Michigan. Students taking part in Michigan’s Master of Science in Engineering in Computer Science and Engineering program can learn about:</p>
+<ul>
+<li>chip design</li>
+<li>compilers</li>
+<li>database and data mining</li>
+<li>distributed systems</li>
+<li>human-computer interaction.</li>
+</ul>
+<h3>11. <a href="https://www.computersciencedegreehub.com/colleges/duke-university/" rel="noopener noreferrer" target="_blank">Duke University</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Duke-Top 50 Graduate Computer Science Programs" class="wp-image-12962" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Duke-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>32<br/><strong>2020 Ranking:</strong> 11<br/><strong>Tuition: </strong>$57,900</p>
+<p>Located in Durham, North Carolina, Duke University is a private university with a strong research focus in computer science. Duke offers a 30-credit M.S. in Computer Science that prepares individuals for research careers and doctoral study. Students have two options for completing the program</p>
+<ul>
+<li> they can take courses only</li>
+<li>they can take courses and write a thesis or create a research project.</li>
+</ul>
+<h3>12. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-los-angeles/" rel="noopener noreferrer" target="_blank">University of California – Los Angeles</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UCLA-Top 50 Graduate Computer Science Programs" class="wp-image-12958" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UCLA-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>31<br/><strong>2020 Ranking:</strong> 12<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>University of California – Los Angeles, or UCLA, is a public university located in Los Angeles, California. UCLA’s M.S. in Computer Science is a nine course program in which students can learn about subjects such as:</p>
+<ul>
+<li>computational systems biology</li>
+<li>information and data management</li>
+<li>software systems</li>
+</ul>
+<p>The average time for completion is six quarter terms.</p>
+<h3>13. <a href="https://www.computersciencedegreehub.com/colleges/johns-hopkins-university/" rel="noopener noreferrer" target="_blank">Johns Hopkins University</a></h3>
+<h3>Master of Science in Engineering in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="JHU-Top 50 Graduate Computer Science Programs" class="wp-image-12966" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Johns-Hopkins-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>29<br/><strong>2020 Ranking:</strong> 13<br/><strong>Tuition: </strong>$57,010</p>
+<p>Johns Hopkins University is a private university in Baltimore, Maryland. Through its Whiting School of Engineering, Johns Hopkins offers a Master of Science in Engineering in Computer Science. Typically, students finish the degree program in three full-time semester terms. Elective courses include:</p>
+<ul>
+<li>Declarative Methods</li>
+<li>Practical Cryptographic Systems.</li>
+</ul>
+<h3>14. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-san-diego/" rel="noopener noreferrer" target="_blank">University of California – San Diego</a></h3>
+<h3>Master of Science in Computer Science and Engineering</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UC San Diego-Top 50 Graduate Computer Science Programs" class="wp-image-12964" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-San-Diego-150x150.png" srcset="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-San-Diego-150x150.png 150w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-San-Diego.png 225w" width="150"/></figure></div>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 14<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>UC San Diego is a California public research university. Students in UC San Diego’s Master of Science in Computer Science and Engineering degree program may choose between the:</p>
+<ul>
+<li>thesis plan</li>
+<li>comprehensive standard plan</li>
+<li>comprehensive interdisciplinary plan</li>
+</ul>
+<p>The first two plans require 40 units, or credit hours, while the third plan requires 48 units to complete. Focus areas for the program include:</p>
+<ul>
+<li>bioinformatics</li>
+<li>graphics and vision</li>
+<li>human-computer interaction.</li>
+</ul>
+<h3>15. <a href="https://www.computersciencedegreehub.com/colleges/university-of-illinois-urbana-champaign/" rel="noopener noreferrer" target="_blank">University of Illinois – Urbana-Champaign</a></h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="" class="wp-image-12957" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Illinois-150x150.jpg" width="150"/></figure></div>
+<h3><strong>Master of Science in Computer Science</strong></h3>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 17<br/><strong>Tuition: </strong>$15,016 (Illinois residents), $27,187 (out of state)</p>
+<p>University of Illinois – Urbana-Champaign is a public research university in the twin cities of Champaign and Urbana. Illinois’ Master of Science in Computer Science requires 28 credits of coursework and four credits of thesis to complete. Students can take courses on:</p>
+<ul>
+<li>graphics</li>
+<li>information systems</li>
+<li>parallel computing</li>
+<li>programming languages</li>
+<li>scientific computing.</li>
+</ul>
+<h3>16. <a href="https://www.computersciencedegreehub.com/colleges/university-of-north-carolina-chapel-hill/">University of North Carolina – Chapel Hill</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UNC-Top 50 Graduate Computer Science Programs" class="wp-image-12971" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Univesity-of-North-Carolina-150x150.gif" width="150"/><figcaption class="wp-element-caption"><br/></figcaption></figure></div>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 18<br/><strong>Tuition: </strong>$10,552 (North Carolina residents), $28,278 (out of state)</p>
+<p>Situated in Chapel Hill, North Carolina, University of North Carolina – Chapel Hill (UNC) is a public research university. UNC offers a Master of Science in Computer Science. The program requires 30 semester hours for completion, and students must take one class from each of these categories:</p>
+<ul>
+<li>applications</li>
+<li>systems and hardware,</li>
+<li>theory and formal thinking</li>
+</ul>
+<p>Also, there is a technical writing requirement where students must demonstrate writing ability by creating a technical document.</p>
+<h3>17. <a href="https://www.computersciencedegreehub.com/colleges/university-of-southern-california/" rel="noopener noreferrer" target="_blank">University of Southern California</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="USC-Top 50 Graduate Computer Science Programs" class="wp-image-12969" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Southern-California-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 15<br/><strong>Tuition:</strong> $47,880</p>
+<p>Located in Los Angeles, California, University of Southern California is the oldest private research university in the state. The M.S. in Computer Science from USC is a 28-credit program. By adding four more credits, students can earn a specialization in the following fields:</p>
+<ul>
+<li>computer networks</li>
+<li>computer security</li>
+<li>data science</li>
+<li>game development</li>
+<li>high performance computing and simulation</li>
+<li>intelligent robotics, multimedia and creative technologies</li>
+<li>software engineering.</li>
+</ul>
+<h3>18. <a href="https://www.computersciencedegreehub.com/colleges/northwestern-university/">Northwestern University</a><br/>Master of Science in Computer Science<a class="rank-math-link" href="https://www.computersciencedegreehub.com/wp-content/uploads/2019/06/northwestern-university.gif"><img alt="northwestern-university" class="alignright wp-image-13339" decoding="async" height="112" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/06/northwestern-university.gif" width="199"/></a></h3>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 19<br/><strong>Tuition: </strong>$56,067</p>
+<p>Located in Evanston, Illinois, Northwestern University is a private research university. Northwestern’s Master of Science in Computer Science is a customizable program in which students can tailor their coursework to fit their interests and career goals. The school offers courses in relevant areas such as :</p>
+<ul>
+<li>artificial intelligence</li>
+<li>computer graphics</li>
+<li>distributed interactive systems</li>
+<li>human-computer interaction.</li>
+</ul>
+<h3>19. <a href="https://www.computersciencedegreehub.com/colleges/university-of-chicago/" rel="noopener noreferrer" target="_blank">University of Chicago</a><br/>Master of Science in Computer Science</h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UChicago-Top 50 Graduate Computer Science Programs" class="wp-image-12968" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Chicago-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>27<br/><strong>2020 Ranking:</strong> 16<br/><strong>Tuition: </strong>$60,300</p>
+<p>Established in 1890, University of Chicago (UChicago) is a private research institution of higher learning located in Chicago, Illinois. UChicago offers an M.S. in Computer Science that can be completed in nine months with full-time study. All of the classes are held at night to accommodate students with full-time jobs. According to the site, UChicago’s publication profile is very diverse, with papers in many different research areas including:</p>
+<ul>
+<li>computer architecture</li>
+<li>databases</li>
+<li>high-performance computing</li>
+<li>machine learning.</li>
+</ul>
+<h3>20. <a href="https://www.cs.utexas.edu/graduate-program/masters-program" rel="noopener noreferrer" target="_blank">University of Texas – Austin</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UT Austin-Top 50 Graduate Computer Science Programs" class="wp-image-12961" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Texas-at-Austin-150x150.png" width="150"/><figcaption class="wp-element-caption"><br/></figcaption></figure></div>
+<p><strong>Points:</strong> 25<br/><strong>2020 Ranking:</strong> 20<br/><strong>Tuition: </strong>$12,028 (Texas residents), $22,886 (out of state)</p>
+<p>Home of the Longhorns, University of Texas – Austin (UT Austin) is the flagship university of the University of Texas System. The Master of Science in Computer Science from UT Austin can be completed with or without a thesis. Students in the program will take courses on:</p>
+<ul>
+<li>combinatorics</li>
+<li>natural language processing</li>
+<li>numerical analysis.</li>
+</ul>
+<h3>21. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-davis/" rel="noopener noreferrer" target="_blank">University of California – Davis</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UC Davis-Top 50 Graduate Computer Science Programs" class="wp-image-12980" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-Davis-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>24<br/><strong>2020 Ranking:</strong> 23<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>University of California – Davis, or UC Davis, is a public university located near Sacramento, California. Students studying for a master’s degree in computer science at UC Davis choose from two plans. The first plan requires a thesis, while the second plan requires a project or exam. The university offers courses about:</p>
+<ul>
+<li>algorithms</li>
+<li>automated deduction</li>
+<li>computer architecture</li>
+<li>operating systems.</li>
+</ul>
+<h3>22. <a href="https://www.computersciencedegreehub.com/colleges/new-york-university/">New York University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="NYU-Top 50 Graduate Computer Science Programs" class="wp-image-12973" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/New-York-University-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>24<br/><strong>2020 Ranking:</strong> 21<br/><strong>Tuition: </strong>$34,704</p>
+<p>Located in New York City, New York University, or NYU, is a private research university with solid rankings in the computing field. NYU offers a flexible Master of Science in Computer Science. Students can choose from a diverse set of electives in topics such as:</p>
+<ul>
+<li>computer security</li>
+<li>game design</li>
+<li>information visualization</li>
+<li>search engines.</li>
+</ul>
+<h3>23. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-irvine/" rel="noopener noreferrer">University of California – Irvine</a><br/>Master of Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UC Irvine-Top 50 Graduate Computer Science Programs" class="wp-image-12977" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-Irvine-150x150.jpg" srcset="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-Irvine-150x150.jpg 150w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-Irvine.jpg 300w" width="150"/></figure></div>
+<p><strong>Points: </strong>23<br/><strong>2020 Ranking:</strong> 25<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>Founded in 1965, University of California – Irvine (UC Irvine) is a top computer science institution according to <em>U.S. News and World Report</em>. Starting in the fall 2017 term, UC Irvine offered the first class of its Professional Master of Computer Science program. The degree is for individuals interested in technology-based careers, and is designed to be finished in four quarters, with an extra optional quarter for an internship.</p>
+<h3>24. <a href="https://www.computersciencedegreehub.com/colleges/purdue-university/">Purdue University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Purdue University-Top 50 Graduate Computer Science Programs" class="wp-image-12974" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Purdue-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>23<br/><strong>2020 Ranking:</strong> 22<br/><strong>Tuition: </strong>$9,208 (Indiana residents), $28,010 (out of state)</p>
+<p>Purdue University is a public research university with a main campus located in West Lafayette, Indiana. To finish the computer science master’s program from Purdue, students must take 10 three-credit courses (non-thesis option) or eight courses and write a thesis (thesis option). Elective topics include:</p>
+<ul>
+<li>bioinformatics</li>
+<li>data mining distributed systems</li>
+<li>numerical computing.</li>
+</ul>
+<h3>25. <a href="https://www.computersciencedegreehub.com/colleges/university-of-maryland-college-park/" rel="noopener noreferrer" target="_blank">University of Maryland</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UM-Top 50 Graduate Computer Science Programs" class="wp-image-12967" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Maryland-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>23<br/><strong>2020 Ranking:</strong> 26<br/><strong>Tuition: </strong>$13,158 (Maryland residents), $29,250 (out of state)</p>
+<p>University of Maryland (UMD) is a public research university in College Park, Maryland. Students in UMD’s computer science M.S. program can conduct research in relevant computing areas such as:</p>
+<ul>
+<li>artificial intelligence</li>
+<li>bioinformatics</li>
+<li>programming language</li>
+<li>software engineering</li>
+<li>scientific computing</li>
+</ul>
+<p>UMD’s faculty has published many papers about:</p>
+<ul>
+<li>computer vision</li>
+<li>natural language processing</li>
+<li>databases, among other topics.</li>
+</ul>
+<h3>26. <a href="https://www.computersciencedegreehub.com/colleges/rice-university/">Rice University</a><br/>Master of Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Rice University-Top 50 Graduate Computer Science Programs" class="wp-image-12970" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Rice-University-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>23<br/><strong>2020 Ranking:</strong> 24<br/><strong>Tuition: </strong>$47,306</p>
+<p>Rice University is a private research school in Houston, Texas. Rice offers a Master of Computer Science professional degree for individuals who wish to pursue careers in technology. The normal time for completion is three full-time semesters. Based on the site’s findings, the university had a balanced publication profile, with the faculty publishing papers in a variety of areas including:</p>
+<ul>
+<li>robotics</li>
+<li>logic and verification</li>
+<li>operating systems</li>
+<li>networks</li>
+<li>programming languages.</li>
+</ul>
+<h3>27. <a href="https://www.computersciencedegreehub.com/colleges/university-of-wisconsin-madison/" rel="noopener noreferrer" target="_blank">University of Wisconsin – Madison</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Wisconsin-Madison-Top 50 Graduate Computer Science Programs" class="wp-image-12963" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Wisconsin-Madison-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>22<br/><strong>2020 Ranking:</strong> 27<br/><strong>Tuition: </strong>$10,728 (Wisconsin residents), $24,054 (out of state)</p>
+<p>University of Wisconsin – Madison, or UW-Madison, is a public university in Madison, Wisconsin. UW-Madison offers a Master of Science in Computer Sciences. Students must complete 30 semester hours to graduate. The university’s Department of Computer Sciences teaches courses on:</p>
+<ul>
+<li>compilers</li>
+<li>computer architecture</li>
+<li>database systems</li>
+<li>optimization</li>
+</ul>
+<p>The school is most active in researching computer architecture, machine learning, databases, and networks.</p>
+<h3>28. <a href="https://www.computersciencedegreehub.com/university-of-california-santa-barbara/" rel="noopener noreferrer">University of California – Santa Barbara</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UC Santa Barbara-Top 50 Graduate Computer Science Programs" class="wp-image-12978" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UC-Santa-Barbara-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>22<br/><strong>2020 Ranking:</strong> 28<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>Located in Santa Barbara, California, University of California – Santa Barbara (UC Santa Barbara) is a public research university. UC Santa Barbara offers an M.S. in Computer Science with three plans to choose from:</p>
+<ul>
+<li>thesis</li>
+<li>project</li>
+<li>comprehensive exam</li>
+</ul>
+<p>The program requires 42 quarter units for completion, and students must choose a major from these options: applications, systems, and theory.</p>
+<h3>29. <a href="https://www.computersciencedegreehub.com/colleges/university-of-florida/" rel="noopener noreferrer">University of Florida</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UF-Top 50 Graduate Computer Science Programs" class="wp-image-12985" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Florida-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>21<br/><strong>2020 Ranking:</strong> 29<br/><strong>Tuition:</strong> $10,770 (Florida residents), $27,335 (out of state)</p>
+<p>Based in Gainesville, Florida, University of Florida (UF) is a public university with over 16,000 graduate students. Through its College of Engineering, UF offers an M.S. in Computer Science. Core courses include:</p>
+<ul>
+<li>Analysis of Algorithms</li>
+<li>Programming Language Principles</li>
+</ul>
+<p>Thesis and non-thesis options are available. For both options, students must complete 30 semester credits to graduate. The university has a wide range of electives on topics such as:</p>
+<ul>
+<li>computational molecular biology</li>
+<li>machine learning</li>
+<li>neural networks.</li>
+</ul>
+<h3>30. <a href="https://www.computersciencedegreehub.com/colleges/university-of-minnesota/" rel="noopener noreferrer">University of Minnesota</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Minnesota-Top 50 Graduate Computer Science Programs" class="wp-image-12976" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Minnesota-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>20<br/><strong>2020 Ranking:</strong> 30<br/><strong>Tuition: </strong>$17,580 (Minnesota resident), $27,204 (out of state)</p>
+<p>University of Minnesota (U of M) is public research university located in the Twin Cities of Minnesota, Minneapolis and Saint Paul. University of Minnesota offers a 31-credit M.S. program in Computer Science with three tracks to choose from:</p>
+<ul>
+<li>thesis</li>
+<li>project</li>
+<li>course-only</li>
+</ul>
+<p>Student must complete one course in each of these three areas:</p>
+<ul>
+<li>theory and algorithms</li>
+<li>applications</li>
+<li>architecture, systems and software.</li>
+</ul>
+<h3>31. <a href="https://www.computersciencedegreehub.com/colleges/virginia-polytechnic-institute-and-state-university/">Virginia Polytechnic Institute and State University </a><br/>Master of Science in Computer Science and Applications <a href="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Virginia-Tech-1-e1547615574590.png"><img alt="VT-Top Computer Science Bachelor's Degrees" class="alignright wp-image-13043" decoding="async" height="184" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Virginia-Tech-1-e1547615574590.png" width="184"/></a></h3>
+<p><strong>Points:</strong> 20<br/><strong>2020 Ranking:</strong> 31<br/><strong>Tuition: </strong>$13,701 (Virginia residents), $27,601 (out of state)</p>
+<p>Virginia Polytechnic Institute and State University is a public research university. Graduate students in Virginia Tech’s M.S. program in Computer Science and Applications are encouraged to complete a thesis because it provides an in-depth research experience. The computer science faculty offers courses in:</p>
+<ul>
+<li>data analytics</li>
+<li>information security</li>
+<li>virtual environments.</li>
+</ul>
+<h3>32. <a href="https://www.computersciencedegreehub.com/colleges/texas-am-university-college-station/" rel="noopener noreferrer">Texas A&amp;M University</a><br/>Master of Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Texas A&amp;M-Top 50 Graduate Computer Science Programs" class="wp-image-12987" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Texas-AM-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>19<br/><strong>2020 Ranking:</strong> 35<br/><strong>Tuition: </strong>$6,775 (Texas residents), $19,048 (out of state)</p>
+<p>Established in 1876, Texas A&amp;M University is a public research university in College Station, Texas. Texas A&amp;M’s Master of Computer Science is a professional degree with no thesis, project, or final exam requirements. The program requires 30 credit hours for completion. Students must select at least one course in the following areas to graduate:</p>
+<ul>
+<li>software</li>
+<li>systems</li>
+<li>theory.</li>
+</ul>
+<h3>33. <a href="https://www.computersciencedegreehub.com/colleges/stony-brook-university-suny/" rel="noopener noreferrer" target="_blank">Stony Brook University – SUNY</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Stony Brook-Top 50 Graduate Computer Science Programs" class="wp-image-12995" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Stony-Brook-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>19<br/><strong>2020 Ranking:</strong> 32<br/><strong>Tuition: </strong>$11,310 (New York residents), $23,100 (out of state)</p>
+<p>Stony Brook University – SUNY is a public university in Stony Brook, New York. The M.S. program in Computer Science from Stony Brook has three options for completion:</p>
+<ul>
+<li>basic project</li>
+<li>advanced project</li>
+<li>thesis</li>
+</ul>
+<p>The university offers classes in a variety of subjects including:</p>
+<ul>
+<li>data science</li>
+<li>logic</li>
+<li>operating systems</li>
+<li>robotics</li>
+<li>wireless and mobile networks.</li>
+</ul>
+<h3>34. <a href="https://www.computersciencedegreehub.com/colleges/university-of-massachusetts-amherst/" rel="noopener noreferrer" target="_blank">University of Massachusetts – Amherst</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UMass-Top 50 Graduate Computer Science Programs" class="wp-image-12983" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UMass-150x150.jpg" srcset="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UMass-150x150.jpg 150w, https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/UMass.jpg 300w" width="150"/></figure></div>
+<p><strong>Points: </strong>19<br/><strong>2020 Ranking:</strong> 34<br/><strong>Tuition: </strong>$14,014 (Massachusetts residents), $30,120 (out of state)</p>
+<p>University of Massachusetts – Amherst (UMass) is a public university in Amherst, Massachusetts. UMass offers an M.S. in Computer Science with an optional concentration in data science. The program is 30 credits long and usually takes four semesters (two years) to complete. The school’s main areas of research are:</p>
+<ul>
+<li>machine learning</li>
+<li>computer networks</li>
+<li>artificial intelligence</li>
+<li>web and information retrieval.</li>
+</ul>
+<h3>35. <a href="https://www.computersciencedegreehub.com/colleges/ohio-state-university/" rel="noopener noreferrer">Ohio State University</a><br/>Master of Science in Computer Science and Engineering </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Ohio State-Top 50 Graduate Computer Science Programs" class="wp-image-12979" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Ohio-State-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>19<br/><strong>2020 Ranking:</strong> 33<br/><strong>Tuition: </strong>$11,560 (Ohio residents), $36,276 (out of state)</p>
+<p>The Ohio State University is a public research university located in Columbus, Ohio. The Master of Science in Computer Science and Engineering from Ohio State requires 30 credits for the research or thesis track and 33 credits for the coursework (non-thesis) track. To fulfill the core course requirements, students must take classes in algorithms, computability and unsolvability or programming languages, computer architecture or operating systems.</p>
+<h3>36. <a href="https://www.computersciencedegreehub.com/colleges/north-carolina-state-university/" rel="noopener noreferrer" target="_blank">North Carolina State University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="NC State-Top 50 Graduate Computer Science Programs" class="wp-image-12992" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/north-carolina-state-university-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>18<br/><strong>2020 Ranking:</strong> 36<br/><strong>Tuition: </strong>$9,095 (North Carolina residents), $26,421 (out of state)</p>
+<p>North Carolina State University (NC State) is a public research institution and a member of the University of North Carolina system. The Master of Science in Computer Science from NC State is a research-oriented program in which students complete courses and create a thesis with original research. Thirty-one graduate credits are required. Students must take courses in systems and theory.</p>
+<h3>37. <a href="https://www.computersciencedegreehub.com/colleges/rutgers-university/" rel="noopener noreferrer" target="_blank">Rutgers University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Rutgers-Top 50 Graduate Computer Science Programs" class="wp-image-12984" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Rutgers-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>18<br/><strong>2020 Ranking:</strong> 37<br/><strong>Tuition: </strong>$17,736 (New Jersey residents), $30,144 (out of state)</p>
+<p>Rutgers University is a coeducational public university situated in New Jersey. Its main campus is located in the city of New Brunswick. Rutgers’ computer science program for graduate students offers four distinct study tracks:</p>
+<ul>
+<li>machine learning</li>
+<li>vision and graphics</li>
+<li>systems</li>
+<li>security.</li>
+</ul>
+<h3>38. <a href="https://www.computersciencedegreehub.com/colleges/university-of-utah/" rel="noopener noreferrer" target="_blank">University of Utah</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Utah-Top 50 Graduate Computer Science Programs" class="wp-image-12990" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Utah-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 38<br/><strong>Tuition: </strong>$6,666 (Utah residents), $23,537 (out of state)</p>
+<p>University of Utah, or the U for short, is a public research university located in Salt Lake City, Utah. The U’s Master of Science in Computer Science has four options for completion:</p>
+<ul>
+<li>thesis, project</li>
+<li>course-only</li>
+<li>MS/MBA</li>
+</ul>
+<p>Core courses include Advanced Algorithms and Operating Systems. Thirty semester credits are required to graduate.</p>
+<h3>39. <a href="https://www.computersciencedegreehub.com/colleges/indiana-university-bloomington/" rel="noopener noreferrer" target="_blank">Indiana University – Bloomington</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Indiana-Top 50 Graduate Computer Science Programs" class="wp-image-12991" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Indiana-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points:</strong> 16<br/><strong>2020 Ranking:</strong> 43<br/><strong>Tuition: </strong>$9,786 (Indiana residents), $31,932 (out of state)</p>
+<p>Indiana University – Bloomington (IU Bloomington) is a good place for graduate studies in computer science according to <em>U.S. News and World Report</em>, which ranks the university #55 in the country. The Master of Science in Computer Science from IU Bloomington is a 30-credit program in which students learn about:</p>
+<ul>
+<li>applied algorithms</li>
+<li>cryptography</li>
+<li>operating systems</li>
+<li>protocol security.</li>
+</ul>
+<h3>40. <a href="https://www.computersciencedegreehub.com/colleges/university-of-colorado-boulder/" rel="noopener noreferrer" target="_blank">University of Colorado – Boulder</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Colorado" class="wp-image-12981" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Colorado-150x150.jpeg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 40<br/><strong>Tuition: </strong>$13,873 (Colorado residents), $33,905 (out of state)</p>
+<p>University of Colorado – Boulder is a public research institution of higher learning situated in Boulder, Colorado. CU Boulder offers a traditional and a professional Master of Science in Computer Science. The traditional M.S. includes a thesis option and more research opportunities than the professional M.S. On the other hand, the professional M.S. offers specialization options in human-centered computing, intelligent systems, and other areas.</p>
+<h3>41. <a href="https://www.computersciencedegreehub.com/colleges/michigan-state-university/" rel="noopener noreferrer">Michigan State University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="MSU-Top 50 Graduate Computer Science Programs" class="wp-image-12989" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Michigan-State-University-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 39<br/><strong>Tuition: </strong>$18,858 (Michigan residents), $37,056 (out of state)</p>
+<p>Michigan State University is a public research university situated in East Lansing, Michigan. Individuals interested in graduate studies can earn a Master of Science in Computer Science from Michigan State’s College of Engineering. The degree program requires 30 semester hours to complete. Thesis and non-thesis options are available. Elective topics include:</p>
+<ul>
+<li>algorithmic graph theory</li>
+<li>distributed systems</li>
+<li>natural language processing</li>
+<li>pattern recognition</li>
+<li>software engineering.</li>
+</ul>
+<h3>42. <a href="https://www.computersciencedegreehub.com/pennsylvania-state-university/" rel="noopener noreferrer">Pennsylvania State University</a><br/>Master of Science in Computer Science and Engineering </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Penn State-Top 50 Graduate Computer Science Programs" class="wp-image-12975" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Penn-State-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 41<br/><strong>Tuition: </strong>$22,426 (Pennsylvania residents), $38,198 (out of state)</p>
+<p>Founded in 1855, Pennsylvania State University, or Penn State for short, is a public university with faculty dedicated to computer science research. Students interested in developing an advanced understanding of computing can earn a Master of Science in Computer Science and Engineering from Penn State. The school offers courses in relevant areas such as:</p>
+<ul>
+<li>algorithm design</li>
+<li>cryptography</li>
+<li>data mining.</li>
+</ul>
+<h3>43. <a href="https://www.computersciencedegreehub.com/colleges/university-of-pittsburgh/" rel="noopener noreferrer">University of Pittsburgh</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Pitt-Top 50 Graduate Computer Science Programs" class="wp-image-12986" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Pittsburgh-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 47<br/><strong>Tuition: </strong>$23,530 (Pennsylvania residents), $39,898 (out of state)</p>
+<p>University of Pittsburgh, or Pitt for short, is a public research school with solid ratings for computer science. The Department of Computer Science at Pitt offers a 30-credit Master of Science program. Students must enroll in one course from each of these categories:</p>
+<ul>
+<li>theory and algorithms</li>
+<li>architecture and compilers</li>
+<li>operating systems and networks</li>
+<li>artificial intelligence and database systems</li>
+</ul>
+<p>Students can finish the degree with a written thesis or a project.</p>
+<h3>44. <a href="https://www.computersciencedegreehub.com/colleges/boston-university/" rel="noopener noreferrer" target="_blank">Boston University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="Boston University-Top 50 Graduate Computer Science Programs" class="wp-image-12982" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/Boston-University-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>16<br/><strong>2020 Ranking:</strong> 42<br/><strong>Tuition: </strong>$56,854</p>
+<p>Boston University (BU) is a private school located in Boston, Massachusetts. Graduate students in BU’s Master of Science in Computer Science may choose to earn a specialization in cyber security or data-centric computing. Eight courses, or 32 semester hours, are required to graduate. A master’s thesis or project is not required. Students must take at least one course in these areas:</p>
+<ul>
+<li>applications</li>
+<li>software</li>
+<li>systems</li>
+<li>theory</li>
+</ul>
+<p>Sample classes include:</p>
+<ul>
+<li>Algorithms</li>
+<li>Object-Oriented Software Principles</li>
+<li>Operating Systems.</li>
+</ul>
+<h3>45. <a href="https://www.computersciencedegreehub.com/colleges/university-of-nebraska-lincoln/">University of Nebraska – Lincoln</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Nebraska" class="wp-image-12999" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Nebraska-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>15<br/><strong>2020 Ranking:</strong> 46<br/><strong>Tuition: </strong>$6,138 (Nebraska residents), $17,928 (out of state)</p>
+<p>University of Nebraska – Lincoln, or Nebraska for short, is a public university in Lincoln, Nebraska. Students in Nebraska’s M.S. program in Computer Science can choose to complete their degree with a thesis or a project. 30 semester hours are required to graduate with the thesis option while the project option consists of 36 hours. Elective courses include Pattern Recognition and Human-Robot Interaction.</p>
+<h3>46. <a href="https://www.computersciencedegreehub.com/colleges/university-at-buffalo-suny/" rel="noopener noreferrer" target="_blank">University at Buffalo – SUNY</a><br/>Master of Science in Computer Science and Engineering </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="SUNY Buffalo" class="wp-image-12996" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-at-Buffalo-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>15<br/><strong>2020 Ranking:</strong> 45<br/><strong>Tuition: </strong>$11,310 (New York residents), $23,100 (out of state)</p>
+<p>University at Buffalo – SUNY, or UB for short, is a public research school located in Buffalo, New York. UB offers a Master of Science in Computer Science and Engineering. To graduate in the program, students must complete 30 semester hours, or 10 courses. Core topics include:</p>
+<ul>
+<li>theory/algorithms</li>
+<li>hardware and networked systems</li>
+<li>artificial intelligence.</li>
+</ul>
+<h3>47. <a href="https://cidse.engineering.asu.edu/computer-science-bs/" rel="noopener noreferrer" target="_blank">Arizona State University</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="ASU-Top 50 Graduate Computer Science Programs" class="wp-image-12988" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/ASU-150x150.jpg" width="150"/></figure></div>
+<p><strong>Points: </strong>15<br/><strong>2020 Ranking:</strong> 44<br/><strong>Tuition: </strong>$11,720 (Arizona residents), $26,160 (out of state)</p>
+<p>Arizona State University is a public research university located in Tempe, Arizona. ASU offers two master’s programs in computer science: Master of Science and Master of Computer Science. The former is research-oriented, and requires the completion of a master’s thesis. Students in this program can earn concentrations in arts, information assurance, or media and engineering. The latter program requires the creation of a portfolio of projects.</p>
+<h3>48. <a href="https://www.computersciencedegreehub.com/colleges/university-of-california-santa-cruz/">University of California – Santa Cruz</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UC Santa Cruz-Top 50 Graduate Computer Science Programs" class="wp-image-12994" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-California-Santa-Cruz-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>14<br/><strong>2020 Ranking:</strong> 49<br/><strong>Tuition: </strong>$11,442 (California residents), $26,544 (out of state)</p>
+<p>University of California – Santa Cruz (UC Santa Cruz) is a public research institution and a member of the University of California system. UC Santa Cruz offers a Master of Science in Computer Science. Students in the program are required to write a thesis or complete a project. Research areas include:</p>
+<ul>
+<li>computer games</li>
+<li>image processing</li>
+<li>neural networks</li>
+<li>pattern recognition and retrieval</li>
+<li>scientific visualization.</li>
+</ul>
+<h3>49. <a class="rank-math-link" href="https://www.computersciencedegreehub.com/colleges/university-of-texas-dallas/" rel="noopener noreferrer" target="_blank">University of Texas at Dallas</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="UT Dallas-Top 50 Graduate Computer Science Programs" class="wp-image-12997" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Texas-at-Dallas-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>14<br/><strong>2020 Ranking:</strong> 48<br/><strong>Tuition: </strong>$14,560 (Texas residents), $28,610 (out of state)</p>
+<p>University of Texas at Dallas, or UT Dallas, is a public research university. Its main campus is located in Richardson, Texas, which is 18 miles north of downtown Dallas. UT Dallas offer a Master of Science in Computer Science with night classes to accommodate students with full-time jobs. Thirty-three semester hours are required to graduate.  Students may choose to complete a thesis.</p>
+<h3>50. <a href="https://www.computersciencedegreehub.com/colleges/university-of-tennessee/" rel="noopener noreferrer" target="_blank">University of Tennessee</a><br/>Master of Science in Computer Science </h3>
+<div class="wp-block-image">
+<figure class="alignright"><img alt="University of Tennessee-Top 50 Graduate Computer Science Programs" class="wp-image-12998" decoding="async" height="150" loading="lazy" src="https://www.computersciencedegreehub.com/wp-content/uploads/2019/01/University-of-Tennessee-150x150.png" width="150"/></figure></div>
+<p><strong>Points: </strong>14<br/><strong>2020 Ranking:</strong> 50<br/><strong>Tuition: </strong>$11,468 (Tennessee residents), $29,656 (out of state)</p>
+<p>University of Tennessee (UT) is a coeducational public research university in Knoxville, Tennessee. Students in UT’s M.S. degree in Computer Science have three program plans to choose from:</p>
+<ul>
+<li>thesis</li>
+<li>non-thesis course-only</li>
+<li>non-thesis project</li>
+</ul>
+<p>All three plans require 30 credit hours to graduate. Core courses include:</p>
+<ul>
+<li>Computer Systems Organization</li>
+<li>Software Systems</li>
+</ul>
+<p>Also, M.S. candidates must take a class on the foundations of computer science or the analysis and design of algorithms.</p>
+<p><strong>Related Resources:</strong></p>
+<ul>
+<li><a href="https://www.computersciencedegreehub.com/best/fastest-online-masters-in-computer-science/">15 Fastest Online Master’s in Computer Science</a></li>
+<li><a href="https://www.computersciencedegreehub.com/masters-computer-science/">Top 50 Master’s in Computer Science Degree Programs</a></li>
+<li><a href="https://www.computersciencedegreehub.com/best/bachelors-computer-science/">Top 50 Bachelor’s in Computer Science Degree Programs</a></li>
+<li><a class="rank-math-link" href="https://www.computersciencedegreehub.com/best/artificial-intelligence-engineering-schools/">Top 20 Artificial Intelligence Engineering Schools in the U.S.</a></li>
+</ul>
+</div><!-- .entry-content -->
+</div>
+</article><!-- #post-12931 -->
+</div><!-- #content .site-content -->
+</div><!-- #primary .content-area -->
+<div class="widget-area" id="secondary" role="complementary">
+<aside class="extendedwopts-hide extendedwopts-mobile widget widget_block" id="block-2"><div id="qdf"> <div class="mobius-container mobius-container-qdf">
+<he-qdf category="computers-and-technology" class="mobius-block mobius-block-qdf" degree="masters" layout="vertical" subject="computer-science" theme="none">
+<div class="mobius-title"></div>
+</he-qdf>
+</div></div></aside><aside class="widget widget_nav_menu" id="nav_menu-21"><h3 class="widget-title">Rankings</h3><div class="menu-rankings-container"><ul class="menu" id="menu-rankings"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12387" id="menu-item-12387"><a href="https://www.computersciencedegreehub.com/best/online-information-security-bachelors/">Top 10 Information Systems Security Online Degrees (Bachelor’s)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12377" id="menu-item-12377"><a href="https://www.computersciencedegreehub.com/best/online-information-technology-bachelors/">Top 10 IT Degrees Online (Bachelor’s)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12302" id="menu-item-12302"><a href="https://www.computersciencedegreehub.com/best/computer-science-online/">Top 10 Computer Science Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11905" id="menu-item-11905"><a href="https://www.computersciencedegreehub.com/best/affordable-online-computer-science-masters/">30 Most Affordable Online Master’s Degrees in Computer Science</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11901" id="menu-item-11901"><a href="https://www.computersciencedegreehub.com/best/affordable-residential-computer-science-bachelor/">30 Most Affordable Residential Bachelor’s Degrees in Computer Science</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11759" id="menu-item-11759"><a href="https://www.computersciencedegreehub.com/best/affordable-online-computer-science-bachelors/">30 Most Affordable Online Bachelor’s Degrees in Computer Science</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358" id="menu-item-1358"><a href="https://www.computersciencedegreehub.com/best/artificial-intelligence-engineering-schools/">20 Best Artificial Intelligence Schools for College Students</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79" id="menu-item-79"><a href="https://www.computersciencedegreehub.com/best/online-bachelors-programs/">Top 10 Online Computer Science Degree Accredited Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80" id="menu-item-80"><a href="https://www.computersciencedegreehub.com/best/online-masters-program/">Top 10 Best Online Master’s in Computer Science Degree Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12449" id="menu-item-12449"><a href="https://www.computersciencedegreehub.com/best/affordable-online-associates-cybersecurity/">5 Cheapest Associate’s in Cybersecurity Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12455" id="menu-item-12455"><a href="https://www.computersciencedegreehub.com/best/affordable-online-associates-information-technology/">Top 10 Cheapest Online Associate’s in Information Technology Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12462" id="menu-item-12462"><a href="https://www.computersciencedegreehub.com/best/affordable-online-associates-network-administration/">Top 5 Cheapest Online Associate’s in Network Administration Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12523" id="menu-item-12523"><a href="https://www.computersciencedegreehub.com/best/cheapest-online-database-management/">Top 5 Cheapest Online Database Management Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12530" id="menu-item-12530"><a href="https://www.computersciencedegreehub.com/best/affordable-online-network-administration/">Top 10 Cheapest Online Network Administration Bachelor Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12540" id="menu-item-12540"><a href="https://www.computersciencedegreehub.com/best/affordable-online-associates-web-design/">Top 10 Cheapest Online Associate’s in Web Design</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12616" id="menu-item-12616"><a href="https://www.computersciencedegreehub.com/best/cheapest-online-masters-information-assurance/">Top 10 Cheapest Online Master’s in Information Assurance Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12625" id="menu-item-12625"><a href="https://www.computersciencedegreehub.com/best/cheap-online-masters-information-technology/">Top 10 Cheapest Online Master’s in Information Technology Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639" id="menu-item-12639"><a href="https://www.computersciencedegreehub.com/best/cheap-online-bachelors-web-design/">Top 5 Cheapest Online Bachelor’s in Web Design Degrees</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12689" id="menu-item-12689"><a href="https://www.computersciencedegreehub.com/best/affordable-online-phd-cybersecurity/">Top 5 Most Affordable Ph.D. in Cybersecurity Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12697" id="menu-item-12697"><a href="https://www.computersciencedegreehub.com/best/cheapest-online-software-development/">Top 5 Cheapest Software Development Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12706" id="menu-item-12706"><a href="https://www.computersciencedegreehub.com/best/cheapest-online-mobile-development/">Top 5 Cheapest Mobile Development Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12749" id="menu-item-12749"><a href="https://www.computersciencedegreehub.com/best/affordable-online-phd-comp-sci-engineering/">5 Most Affordable Ph.D. in Computer Science and Computer Engineering Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12829" id="menu-item-12829"><a href="https://www.computersciencedegreehub.com/best/cheapest-online-associates-computer-science/">5 Cheapest Associate’s in Computer Science Degrees Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12931 current_page_item menu-item-13089" id="menu-item-13089"><a aria-current="page" href="https://www.computersciencedegreehub.com/masters-computer-science/">Top 50 Master’s in Computer Science Degree Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13223" id="menu-item-13223"><a href="https://www.computersciencedegreehub.com/best/bachelors-computer-science/">Top 50 Bachelor’s in Computer Science Degree Programs</a></li>
+</ul></div></aside><aside class="widget widget_nav_menu" id="nav_menu-22"><h3 class="widget-title">Infographics</h3><div class="menu-infographics-container"><ul class="menu" id="menu-infographics"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="https://www.computersciencedegreehub.com/space-internet/">Space Internet</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282" id="menu-item-282"><a href="https://www.computersciencedegreehub.com/smart-cards/">Is the U.S. Finally Getting Smart About Payment Technology?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160" id="menu-item-160"><a href="https://www.computersciencedegreehub.com/cell-phone/">From Bricks to Brains: The Evolution of the Cell Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153" id="menu-item-153"><a href="https://www.computersciencedegreehub.com/disruptive/">Disruptive Entrepreneurs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156" id="menu-item-156"><a href="https://www.computersciencedegreehub.com/solving-crimes/">Of Cops and Cookies: How Police Are Using Computers to Solve Crimes</a></li>
+</ul></div></aside><aside class="widget widget_nav_menu" id="nav_menu-23"><h3 class="widget-title">Site Info</h3><div class="menu-site-information-container"><ul class="menu" id="menu-site-information-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="https://www.computersciencedegreehub.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.computersciencedegreehub.com/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14856"><a href="https://www.computersciencedegreehub.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="https://www.computersciencedegreehub.com/sitemap/">Sitemap</a></li>
+</ul></div></aside> </div><!-- #secondary .widget-area -->
+</div> <!-- .full-container -->
+</div> <!-- #main .site-main -->
+<footer class="site-footer" id="colophon" role="contentinfo">
+<div class="full-container" id="footer-widgets">
+</div><!-- #footer-widgets -->
+<div id="site-info">
+			Computer Science Degree Hub © 2023		</div><!-- #site-info -->
+</footer><!-- #colophon .site-footer -->
+</div> <!-- #page-wrapper -->
+<a class="scroll-to-top" href="#" id="scroll-to-top" title="Back To Top"><span class="vantage-icon-arrow-up"></span></a><link data-minify="1" href="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/uploads/so-css/so-css-vantage.css?ver=1697091721" id="so-css-vantage-css" media="all" rel="stylesheet" type="text/css"/>
+<script data-minify="1" id="swv-js" src="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1670338292" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.computersciencedegreehub.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script data-minify="1" id="contact-form-7-js" src="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1670338292" type="text/javascript"></script>
+<script id="advanced-ads-responsive-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script data-minify="1" id="advanced-ads-responsive-js" src="https://www.computersciencedegreehub.com/wp-content/cache/min/1/wp-content/plugins/advanced-ads-responsive/public/assets/js/script.js?ver=1670338292" type="text/javascript"></script>
+<script id="rocket-browser-checker-js-after" type="text/javascript">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/|\/linkout\/.+","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.computersciencedegreehub.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script id="rocket-preload-links-js-after" type="text/javascript">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script id="advanced-ads-pro/front-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advadsCfpInfo = {"cfpExpHours":"3","cfpClickLimit":"3","cfpBan":"7","cfpPath":"","cfpDomain":"www.computersciencedegreehub.com"};
+/* ]]> */
+</script>
+<script id="advanced-ads-pro/front-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.19.2" type="text/javascript"></script>
+<script id="jquery-flexslider-js" src="https://www.computersciencedegreehub.com/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1" type="text/javascript"></script>
+<script id="jquery-touchswipe-js" src="https://www.computersciencedegreehub.com/wp-content/themes/vantage/js/jquery.touchSwipe.min.js?ver=1.6.6" type="text/javascript"></script>
+<script id="vantage-main-js" src="https://www.computersciencedegreehub.com/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=2.6" type="text/javascript"></script>
+<script id="jquery-fitvids-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/so-widgets-bundle/js/lib/jquery.fitvids.min.js?ver=1.1" type="text/javascript"></script>
+<script id="q2w3_fixed_widget-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"use_sticky_position":false,"margin_top":10,"margin_bottom":150,"stop_elements_selectors":"","screen_max_width":0,"screen_max_height":0,"widgets":[]}];
+/* ]]> */
+</script>
+<script id="q2w3_fixed_widget-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.2.3" type="text/javascript"></script>
+<script id="advanced-ads-pro/cache_busting-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/www.computersciencedegreehub.com\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]},"moveintohidden":"","wp_timezone_offset":"-25200"};
+/* ]]> */
+</script>
+<script id="advanced-ads-pro/cache_busting-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.19.2" type="text/javascript"></script>
+<script id="advadsTrackingScript-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advadsTracking = {"impressionActionName":"aatrack-records","clickActionName":"aatrack-click","targetClass":"compu-target","blogId":"1","frontendPrefix":"compu-"};
+/* ]]> */
+</script>
+<script id="advadsTrackingScript-js" src="https://www.computersciencedegreehub.com/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/tracking.min.js?ver=2.5.1" type="text/javascript"></script>
+<!--noptimize--><script>window.advads_admin_bar_items = [{"title":"Coding","type":"group"}];</script><!--/noptimize--><!--noptimize--><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!--/noptimize--><script>
+	!function (w, d, c = 0) {
+		
+		waitFor("he-qdf", null, callback, 100, 10000);
+		waitFor("he-editorial-listings", null, callback, 100, 10000);
+
+		function callback(selector, el) {
+			if (c++) return
+						waitFor(selector, 'shadowRoot', function () {
+				loadStyle(1)
+			});
+						setTimeout(function () {
+					!function (u, c, l, z) {
+						u._UCL  = l;
+						z       = c.createElement('script');
+						z.async = 0;
+						z.src   = 'https://sonic-ui.highereducation.com/latest/ucl.adapter.js';
+						c.head.appendChild(z);
+					}(window, document, {'identity': '765c6495-93d2-4b55-becc-321933ed6d58'});
+				}, 50);
+		}
+
+				function waitFor(selector, prop, callback, everyMs = 100, timeoutMs = 10000, finds = 1, start = Date.now()) {
+			(function loopS() {
+				let el = typeof selector === 'string' ? document.querySelector(selector) : selector;
+				if (el && (!prop || el[prop])) {
+					callback(selector, el, prop)
+					if (--finds === 0) return
+				}
+				setTimeout(function (i) {
+										if (timeoutMs && Date.now() - start > timeoutMs) return;
+					loopS();
+				}, everyMs, selector);
+			})();
+		}
+	}(window, document)
+
+	function loadStyle(v, el, i, shadow) {
+		appendCSS(document.querySelector('head'), v)
+				el = document.querySelectorAll('he-qdf:not(.mobius-not), he-editorial-listings')
+		for (i = 0; i < el.length; ++i) {
+			shadow = el[i].shadowRoot
+			if (shadow) appendCSS(shadow, v, "-shadow")
+		}
+	}
+
+	function appendCSS(el, v, postfix = '') {
+		let link = el.querySelector('#mobius-style')
+		if (link) link.remove()
+		if (v == null) return
+
+		link       = document.createElement('link');
+		link.id    = "mobius-style";
+		link.rel   = 'stylesheet';
+		link.type  = 'text/css';
+		link.href  = "https://www.computersciencedegreehub.com/wp-content/plugins/mobius-plugin-main/templates/style" + v + postfix + ".css";
+		link.media = 'all';
+
+		el.appendChild(link)
+	}
+
+</script>
+<script id="compu-tracking">var advads_tracking_ads = {};var advads_tracking_urls = {"1":"https:\/\/www.computersciencedegreehub.com\/wp-content\/ajax-handler.php"};var advads_tracking_methods = {"1":"frontend"};var advads_tracking_parallel = {"1":false};var advads_tracking_linkbases = {"1":"https:\/\/www.computersciencedegreehub.com\/linkout\/"};</script><script src="//pmetrics.performancing.com/js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+		clicky.init( 20866 );
+	} catch ( e ) {}
+</script>
+<noscript>
+<p><img alt="Performancing Metrics" height="1" src="//pmetrics.performancing.com/20866ns.gif" width="1"/>
+</p>
+</noscript>
+<script async="" data-minify="1" src="https://www.computersciencedegreehub.com/wp-content/cache/min/1/pa-5f77a2a42b7543001500006a.js?ver=1670338292"></script>
+</body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1697131059 -->
